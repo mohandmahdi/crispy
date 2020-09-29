@@ -1,6 +1,6 @@
 {
   "name": "crispy",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "node server.js",
@@ -12,7 +12,7 @@
   },
   "engines": {
     "node": "v12.0",
-    "npm": "5.8.0"
+    "npm": "6.9.0"
   },
   "private": true,
   "dependencies": {
